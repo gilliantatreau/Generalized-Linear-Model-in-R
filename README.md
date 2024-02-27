@@ -5,6 +5,8 @@ Analysis of generalized linear modeling techniques.
 Preliminary analysis of feature importance of explanatory analysis. 
 Interpretation of confusion matrices and accuracy of training versus test sets. 
 ## How to Run Code Locally
+- Clone repo
+- Go into repository on local device
 - Run R code in preferred R IDE, such as R Studio.
 
 ## Libraries Used

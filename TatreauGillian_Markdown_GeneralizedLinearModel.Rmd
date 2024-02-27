@@ -1,5 +1,5 @@
 ---
-title: "Thoracic Surgery Data Week 10"
+title: "Generalized Linear Model in R"
 author: "Gillian Tatreau"
 date: "2022-11-05"
 output: pdf_document

@@ -1,3 +1,6 @@
+# Author Gillian Tatreau
+# Created October 2022
+
 install.packages("foreign")
 install.packages("caTools")
 library(ggplot2)
